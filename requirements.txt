@@ -1,0 +1,16 @@
+torch
+transformers
+datasets
+peft
+scikit-learn
+pandas
+matplotlib
+seaborn
+sentence-transformers
+faiss-cpu
+anthropic
+fastapi
+uvicorn
+python-dotenv
+pypdf
+jupyter
